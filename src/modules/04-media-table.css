@@ -1,3 +1,5 @@
+@layer first-style {
+
 img,
 video,
 canvas,
@@ -62,4 +64,6 @@ td {
 
 th {
   font-weight: 600;
+}
+
 }

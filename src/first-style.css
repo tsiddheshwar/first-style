@@ -1,3 +1,5 @@
+@layer first-style;
+
 @import "./modules/01-tokens.css";
 @import "./modules/02-base.css";
 @import "./modules/03-text.css";

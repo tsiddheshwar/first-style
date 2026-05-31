@@ -1,3 +1,5 @@
+@layer first-style {
+
 *,
 *::before,
 *::after {
@@ -57,4 +59,6 @@ script,
 style,
 template {
   display: none !important;
+}
+
 }

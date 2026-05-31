@@ -1,3 +1,5 @@
+@layer first-style {
+
 :root {
   --fs-font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   --fs-mono-font-family: Consolas, "Courier New", monospace;
@@ -37,4 +39,5 @@
     --fs-space-4: clamp(0.75rem, 0.5vw + 0.55rem, 1rem);
     --fs-space-5: clamp(1rem, 0.7vw + 0.75rem, 1.4rem);
   }
+}
 }

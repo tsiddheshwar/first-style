@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0 - 2026-06-01
+
+- wrapped all CSS modules in `@layer first-style` to opt into CSS cascade layers
+
 ## 0.2.0 - 2026-04-30
 
 - renamed the package from `autostyle` to `first-style`
